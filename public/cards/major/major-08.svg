@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 960" role="img">
+  <defs>
+    <radialGradient id="bg"><stop offset="0" stop-color="#24151a"/><stop offset="1" stop-color="#080909"/></radialGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#efe4c8"/><stop offset="0.5" stop-color="#c6a15b"/><stop offset="1" stop-color="#765023"/></linearGradient>
+  </defs>
+  <rect width="640" height="960" rx="20" fill="url(#bg)"/>
+  <rect x="28" y="28" width="584" height="904" rx="14" fill="none" stroke="#c6a15b" stroke-width="3"/>
+  <rect x="48" y="48" width="544" height="864" rx="10" fill="none" stroke="#765023"/>
+  <path d="M68 118H572M68 842H572" stroke="#c6a15b" opacity=".58"/>
+  <circle cx="320" cy="480" r="238" fill="none" stroke="#765023" stroke-width="2" stroke-dasharray="3 13" transform="rotate(4 320 480)"/>
+  <polygon points="92,65 94.89,76.99437316612594 106.72243186433546,73.5 97.78,82 106.72243186433546,90.5 94.89,87.00562683387406 92,99 89.11,87.00562683387406 77.27756813566455,90.5 86.22,82 77.27756813566454,73.5 89.11,76.99437316612594" fill="none" stroke="#c6a15b" stroke-width="3"/><polygon points="548,861 550.89,872.9943731661259 562.7224318643355,869.5 553.78,878 562.7224318643355,886.5 550.89,883.0056268338741 548,895 545.11,883.0056268338741 533.2775681356645,886.5 542.22,878 533.2775681356645,869.5 545.11,872.9943731661259" fill="none" stroke="#c6a15b" stroke-width="3"/>
+  <polygon points="320,362 438,480 320,598 202,480" fill="none" stroke="#765023" stroke-width="3"/><line x1="412" y1="480" x2="438" y2="480" stroke="#c6a15b" stroke-width="3"/><line x1="377.3610617710035" y1="551.9284963870588" x2="393.5717966193306" y2="572.2561149312276" stroke="#c6a15b" stroke-width="3"/><line x1="299.5280740760191" y1="569.6933679207277" x2="293.7425297931549" y2="595.0414936374552" stroke="#c6a15b" stroke-width="3"/><line x1="237.11086415297746" y1="519.9173039988153" x2="213.68567358751454" y2="531.1982812158719" stroke="#c6a15b" stroke-width="3"/><line x1="237.11086415297746" y1="440.0826960011847" x2="213.68567358751454" y2="428.8017187841282" stroke="#c6a15b" stroke-width="3"/><line x1="299.52807407601904" y1="390.3066320792722" x2="293.74252979315486" y2="364.9585063625448" stroke="#c6a15b" stroke-width="3"/><line x1="377.36106177100345" y1="408.0715036129412" x2="393.57179661933054" y2="387.74388506877244" stroke="#c6a15b" stroke-width="3"/><path d="M220 580Q320 340 420 580Q320 690 220 580Z" fill="#481923" stroke="#c6a15b" stroke-width="6"/><path d="M275 520Q320 470 365 520" fill="none" stroke="#efe4c8" stroke-width="6"/>
+</svg>
