@@ -27,3 +27,7 @@ coverage/
 # PWA
 dev-dist/
 tarot-guide-v1.0.0-package/
+
+# Git commit gate files
+.GATE_QUALITY
+.GATE_TEST
